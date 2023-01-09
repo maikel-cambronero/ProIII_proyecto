@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Presentacion","l":"Chats"},{"p":"Datos","l":"Conexion"},{"p":"Presentacion","l":"Config"},{"p":"Presentacion","l":"Estado"},{"p":"Presentacion","l":"Mensajeria"},{"p":"Logica","l":"Mensajes"},{"p":"Presentacion","l":"PantallaCarga"}];updateSearchResults();
